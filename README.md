@@ -16,4 +16,4 @@ Forum Komunitas: Tempat bagi pemilik kucing untuk berbagi pengalaman dan bertany
 
 Aplikasi ini bertujuan untuk memberikan informasi dan alat yang dibutuhkan pemilik kucing untuk memastikan kucing mereka sehat, bahagia, dan terawat dengan baik.
 
-![pet](screenshot/pet2.png)
+![pet](screenshot/kucing.png)
